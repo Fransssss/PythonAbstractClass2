@@ -1,7 +1,7 @@
 # Author: Fransiskus Agapa
 
 # ===========================
-# simply program to practice abstract method
+# simple program to practice abstract method
 # choose an object and certain output show
 # ===========================
 
